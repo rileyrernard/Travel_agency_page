@@ -1,0 +1,60 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Discover amazing places by going through our website; we always give you the best!">
+    <title>Travel Agency Page</title>
+</head>
+
+<body>
+
+  <h1>Discover Japan!</h1>
+  <p>Japan is a widely used phrase that primarily refers to the exploration of Japanese culture, heritage, and destinations.</p>
+
+  <h2>Packages</h2>
+  <p>We offer an extensive range of holiday solutions to accommodate the needs of all our clients. From daily excursions in the most beautiful cities, to thorough tours of hidden villages and medieval towns to discover Italy's lesser-known sides.</p>
+
+<ul>
+  <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+  <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+</ul>
+
+<h2>Top Itineraries</h2>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank"> 
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="colosseo">
+  </a>
+
+  <figcaption>Colosseo but not in Japan</figcaption>
+  
+</figure>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="alps">
+  </a>
+  
+  <figcaption>This is ALPS mountain. Also not Japan</figcaption>
+  
+</figure>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="sea">
+  </a>
+  
+  <figcaption>This is Sea, somewhere in the world. Definitely not Japan 😂</figcaption>
+  
+</figure>
+
+
+    </body>
+</html>
+
+  
+
+** end of index.html **
+
